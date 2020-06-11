@@ -39,7 +39,7 @@ To initialize your local repository, use this command:
 ------------------------------------------------------
 
 ```bash
-   repo init -u https://github.com/Havoc-OS/android_manifest.git -b ten
+   repo init -u https://github.com/havoc-beryllium/android_manifest.git -b ten
 ```
   
 To Sync the source:
