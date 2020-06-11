@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote  name="asparkoffire"
+           fetch="https://bitbucket.org/asparkoffire/"
+           revision="refs/heads/10.x" />
+
+<project path="vendor/pixelstyle" name="vendor_pixelstyle" clone-depth="1" revision="ten" remote="havoc-beryllium" />
+<project path="vendor/gapps" name="vendor_gapps" clone-depth="1" revision="10.x" remote="asparkoffire" />
+<project path="packages/apps/GoogleCameraMod" name="packages_apps_GoogleCameraMod" revision="10.x" clone-depth="1" remote="havoc-beryllium" />
+
+</manifest>

@@ -790,5 +790,8 @@
   <!-- Havoc additions -->
   <include name="snippets/havoc.xml" />
   <include name="snippets/lineage.xml" />
+  <include name="snippets/beryllium.xml" />
+  <include name="snippets/opengapps.xml" />
+  <include name="snippets/pixel.xml" />
 
 </manifest>
