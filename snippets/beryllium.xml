@@ -4,5 +4,5 @@
   <project path="device/xiaomi/beryllium" name="device_xiaomi_beryllium" remote="havoc-beryllium" />
   <project path="kernel/xiaomi/sdm845" name="kernel_xiaomi_sdm845" remote="havoc-beryllium" />
   <project path="vendor/xiaomi" name="vendor_xiaomi" remote="havoc-beryllium" />
-  <project path="prebuilts/clang/host/linux-x86/clang-11" name="prebuilts_clang_host_linux-x86_clang-11" remote="havoc-beryllium" />
+  <project path="prebuilts/clang/host/linux-x86/clang-11" name="prebuilts_clang_host_linux-x86_clang-11" remote="havoc-beryllium" clone-depth="1" />
 </manifest>
